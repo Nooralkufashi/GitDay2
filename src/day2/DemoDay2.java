@@ -5,6 +5,9 @@ public class DemoDay2 {
 		
 		String name = "Noor";
 		System.out.println("Noor");
+		int a = 10;
+		int b = 20;
+		System.out.println(a+b);
 	}
 	
 
