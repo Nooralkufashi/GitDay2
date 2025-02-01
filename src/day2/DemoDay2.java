@@ -19,6 +19,12 @@ public class DemoDay2 {
 	public void divide(int x,int y) {
 		System.out.println(x/y);
 	}
+	int y=30;
+	int x =40;
+	int result = x-y;
 	
 
-}
+	}
+	
+
+
