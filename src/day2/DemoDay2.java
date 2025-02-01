@@ -22,7 +22,7 @@ public class DemoDay2 {
 	int y=30;
 	int x =40;
 	int result = x-y;
-	
+	String name = "Jave";
 
 	}
 	
